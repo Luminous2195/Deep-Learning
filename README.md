@@ -1,2 +1,2 @@
 # Deep-Learning
-BT qua trinh
+BT quá trình môn học sâu SGU26
